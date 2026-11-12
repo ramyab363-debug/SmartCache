@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Model and data cache
+.cache/
+models/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+# Local database files
+*.db
